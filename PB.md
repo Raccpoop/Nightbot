@@ -27,14 +27,14 @@ const times = [
     h2a_hc, h2a_tgj,
     h2a_deathless ];
 const options = [
-    "Halo 2%H2", "heretic",
+    "Halo 2/H2", "heretic",
     "armory", "cairo",
-    "outskirts%os", "metro",
-    "arbiter%arby", "oracle",
-    "delta halo%dh", "regret",
-    "sacred icon%si", "quarantine zone%qz",
-    "gravemind%gm", "uprising",
-    "high charity%hc", "the great journey%tgj",
+    "outskirts/os", "metro",
+    "arbiter/arby", "oracle",
+    "delta halo/dh", "regret",
+    "sacred icon/si", "quarantine zone/qz",
+    "gravemind/gm", "uprising",
+    "high charity/hc", "the great journey/tgj",
     "deathless" ];
 const proper_names = [
     "H2A Full Game", "The Heretic",
@@ -54,7 +54,7 @@ if(q != "")
 {
     for(let i = 0; i < options.length; i++)
     {
-        var chunks = options[i].split("%");
+        var chunks = options[i].split("/");
         var found = false;
         for(let j = 0; j < chunks.length; j++)
         {
