@@ -1,5 +1,5 @@
 const h2a_fg = "null | 1:47:16";
-const h2a_heretic = "00:00:01 (wr) | null";
+const h2a_heretic = "00:00:01 (wr) | 00:00:36 (wr)";
 const h2a_armory = "null | null";
 const h2a_cairo = "null | 6:14";
 const h2a_outskirts = "null | 4:37";
