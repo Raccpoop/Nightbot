@@ -1,2 +1,2 @@
-var jokes = "$(urlfetch json https://github.com/Raccpoop/Nightbot/raw/main/DadJoke/Jokes.md) ".split("+x");
+var jokes = "$(urlfetch json https://github.com/Raccpoop/Nightbot/raw/main/DadJoke/Jokes.md ) ".split("+x");
 jokes[Math.floor(Math.random() * (jokes.length - 1))];
