@@ -1,1 +1,2 @@
-j[Math.floor(Math.random() * j.length)];
+var jokes = j.split('/');
+jokes[Math.floor(Math.random() * j.length);
