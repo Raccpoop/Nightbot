@@ -1,2 +1,2 @@
 var jokes = j.split('>');
-jokes[2];
+jokes[Math.floor(Math.random() * j.length)];
