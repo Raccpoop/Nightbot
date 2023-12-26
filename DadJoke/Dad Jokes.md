@@ -1,2 +1,2 @@
-var jokes = j.split('》');
+var jokes = j.split('>');
 jokes[2];
