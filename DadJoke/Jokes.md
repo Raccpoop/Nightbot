@@ -1,1 +1,6 @@
-ALOO
+Joke 1 /
+Joke 2 /
+Joke 3 /
+Joke 4 /
+Joke 5 /
+Joke 6
