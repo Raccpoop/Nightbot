@@ -1,1 +1,1 @@
-j[Math.floor(Math.random() * (jokes.length - 1))];
+j[Math.floor(Math.random() * jokes.length)];
