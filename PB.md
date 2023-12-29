@@ -1,4 +1,4 @@
-const h2a_fg = "null | 1:47:16";
+const h2a_fg = "null | 1:46:27";
 const h2a_heretic = "00:00:24 (wr) | 00:00:36 (wr)";
 const h2a_armory = "null | null";
 const h2a_cairo = "null | 6:14";
@@ -9,7 +9,7 @@ const h2a_oracle = "null | 13:18";
 const h2a_dh = "null | 3:53";
 const h2a_regret = "null | 11:04";
 const h2a_sacred = "null | 10:25";
-const h2a_qz = "null | 8:07";
+const h2a_qz = "null | 7:54";
 const h2a_gravemind = "null | 10:26";
 const h2a_uprising = "null | 2:23";
 const h2a_hc = "null | 2:07";
