@@ -1,4 +1,4 @@
-const h2a_fg = "null | 1:46:27";
+const h2a_fg = "null | 1:44:02";
 const h2a_heretic = "00:00:24 (wr) | 00:00:36 (wr)";
 const h2a_armory = "null | null";
 const h2a_cairo = "null | 6:14";
