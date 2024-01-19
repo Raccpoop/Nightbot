@@ -58,7 +58,7 @@ if(q != "")
         var found = false;
         for(let j = 0; j < chunks.length; j++)
         {
-            if(q.toLowerCase().includes(chunks[j]))
+            if(q.toLowerCase() == chunks[j])
             {
                 option = i;
                 found = true;
