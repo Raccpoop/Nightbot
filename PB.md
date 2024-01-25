@@ -7,12 +7,12 @@ const h2a_metro = "null | 4:33";
 const h2a_arbiter = "null | 2:42";
 const h2a_oracle = "null | 12:55";
 const h2a_dh = "null | 3:53";
-const h2a_regret = "null | 11:04";
-const h2a_sacred = "null | 10:25";
+const h2a_regret = "null | 10:26?";
+const h2a_sacred = "null | 9:51?";
 const h2a_qz = "null | 7:54";
-const h2a_gravemind = "null | 10:10";
+const h2a_gravemind = "null | 9:59";
 const h2a_uprising = "null | 2:23";
-const h2a_hc = "null | 2:07";
+const h2a_hc = "null | 1:54";
 const h2a_tgj = "null | 9:26";
 const h2a_deathless = "2:31:43 with 46 deaths | Metropolis 13:50 with 0 deaths";
 
