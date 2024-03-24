@@ -28,6 +28,6 @@ else if( size == size2) winner = "The winner is nobody.";
  
 var finalMessage = name + "'s PP size is " + size + "inch.";
 
-if(q.includes(subCommands[2])) finalMessage = name + ": " + size + " | " + name2 + ": " + size2 + " | " + winner;
+if(q.includes(subCommands[0])) finalMessage = name + ": " + size + " | " + name2 + ": " + size2 + " | " + winner;
  
 finalMessage;
