@@ -19,7 +19,7 @@ var name2;
 var winner;
 if(q.includes(subCommands[0])) 
 {
-    name2 = q.substring(q.lastIndexOf("+") + 5);
+    name2 = q.substring(q.lastIndexOf("d") + 4);
     name = u;
 }
 winner = "The winner is " + name;
