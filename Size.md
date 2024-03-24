@@ -6,7 +6,6 @@ function GenerateNumber(min, max)
 }
 var sizeR1 = GenerateNumber(sizeRange[0], sizeRange[1]);
 var sizeR2 = GenerateNumber(sizeRange[0], sizeRange[1]);
-var sizerc = GenerateNumber(0, 1);
 var size = 0;
 var size2 = 0;
 size = sizeR1;
@@ -28,6 +27,9 @@ else if( size == size2) winner = "The winner is nobody.";
  
 var finalMessage = name + "'s PP size is " + size + "inch.";
 
-if(q.includes(subCommands[0])) finalMessage = name + ": " + size + " | " + name2 + ": " + size2 + " | " + winner;
+if(q.includes(subCommands[0]))
+{
+finalMessage = name + ": " + size + " | " + name2 + ": " + size2 + " | " + winner;
+}
  
 finalMessage;
