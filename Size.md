@@ -29,7 +29,7 @@ var finalMessage = name + "'s PP size is " + size + "inch.";
 
 if(q.includes(subCommands[0]))
 {
-finalMessage = name + ": " + size + " | " + name2 + ": " + size2 + " | " + winner;
+finalMessage = name + "'s size: " + size + " | " + name2 + "'s size: " + size2
 }
  
 finalMessage;
