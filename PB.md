@@ -1,7 +1,7 @@
 const h2a_fg = "null | 1:33: 30";
 const h2a_heretic = "00:00:24 (wr) | 00:00:36 (wr)";
 const h2a_armory = "null | null";
-const h2a_cairo = "null | 5:47";
+const h2a_cairo = "null | 5:34";
 const h2a_outskirts = "null | 4:26";
 const h2a_metro = "null | 4:23";
 const h2a_arbiter = "null | 2:36";
@@ -12,7 +12,7 @@ const h2a_sacred = "null | 9:01";
 const h2a_qz = "null | 7:50";
 const h2a_gravemind = "null | 9:06";
 const h2a_uprising = "null | 1:54";
-const h2a_hc = "null | 1:44";
+const h2a_hc = "null | 1:34";
 const h2a_tgj = "null | 9:06";
 const h2a_deathless = "Metropolis 13:50";
 
