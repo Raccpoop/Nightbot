@@ -14,7 +14,7 @@ const h2a_gravemind = "9:06";
 const h2a_uprising = "1:54";
 const h2a_hc = "1:34";
 const h2a_tgj = "9:06";
-const h2a_deathless = "Metropolis 13:50";
+const h2a_deathless = "Metropolis 13:31";
 
 const times = [
     h2a_fg, h2a_heretic, 
